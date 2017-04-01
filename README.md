@@ -22,6 +22,8 @@ Here is the technology stack we'll use:
 
 #### Let's briefly look at each piece of the stack we'll use in this tutorial:
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/kristianmandrup/aurelia-realtime-rethinkdb-sample.svg)](https://greenkeeper.io/)
+
 **RethinkDB** which is a relatively new, **open source,** **NoSQL** **database** that stores JSON documents. It’s **fast**, **scalable**, **easy** to **administer** and a **Joy** to program with.
 Recently the folks at RethinkDB added some **killer** **features** for doing **realtime**. A feature called [changefeeds](http://rethinkdb.com/docs/changefeeds/javascript/ "ChangeFeeds"), that in my opinion **fills** a big **gap** and makes **implementing** **realtime** features **a breeze**.
 
